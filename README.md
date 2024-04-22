@@ -1,1 +1,2 @@
-# farooqui786_todos_list
+# todo_list
+a simple todo list with the help of javascript
